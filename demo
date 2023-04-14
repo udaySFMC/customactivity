@@ -33,22 +33,22 @@
     "configurationArguments": {
       "applicationExtensionKey": "bbc96343-224f-457c-9e65-ac33ea26821e",
       "save": {
-        "url": "https://nikhildemo.herokuapp.com/journeybuilder/save",
+        "url": "https://nikhil.herokuapp.com/journeybuilder/save",
           "verb": "POST",
         "useJwt": true
        },
        "publish": {
-        "url": "https://nikhildemo.herokuapp.com/journeybuilder/publish",
+        "url": "https://nikhil.herokuapp.com/journeybuilder/publish",
            "verb": "POST",
         "useJwt": true
        },
       "stop": {
-        "url": "https://nikhildemo.herokuapp.com/journeybuilder/stop",
+        "url": "https://nikhil.herokuapp.com/journeybuilder/stop",
            "verb": "POST",
         "useJwt": true
       },
       "validate": {
-        "url": "https://nikhildemo.herokuapp.com/journeybuilder/validate",
+        "url": "https://nikhil.herokuapp.com/journeybuilder/validate",
         "verb": "POST",
         "useJwt": true
       }
